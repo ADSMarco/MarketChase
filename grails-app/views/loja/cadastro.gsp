@@ -8,6 +8,15 @@
 <title>MarketChase</title>
 </head>
 <body>
+
+
+
+
+
+
+
+
+
 	<g:render template="/navs/navMain"></g:render>
 	<h1 class="text-center">Cadastre sua loja</h1>
 	<div class="container">

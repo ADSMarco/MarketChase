@@ -16,6 +16,7 @@ environments {
 			url = "jdbc:mysql://localhost:3308/marketchase"
 			username = "MarketChase"
 			password = "2014"
+			
 		}
 		hibernate {
 			show_sql = true

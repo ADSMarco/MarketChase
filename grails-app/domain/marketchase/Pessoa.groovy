@@ -6,5 +6,7 @@ class Pessoa {
 	static hasone = Categoria
 	
     static constraints = {
+		
+		
     }
 }
